@@ -1,0 +1,84 @@
+body{
+    
+    background-color: palegoldenrod;
+}
+#b1{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 15px;
+    background-color: rgb(101, 184, 101);
+    color: white;
+    box-shadow: 2px 2px 1px grey;
+    margin: 10px;
+}
+#b2{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 15px;
+    background-color: rgb(179, 106, 106);
+    color: white;
+    box-shadow: 2px 2px 1px grey;
+    margin: 10px;
+}
+#b3{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 15px;
+    background-color: rgb(201, 247, 117);
+    color: white;
+    box-shadow: 2px 2px 1px grey;
+    margin: 10px;
+}
+#b4{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 15px;
+    background-color: rgb(179, 106, 173);
+    color: white;
+    box-shadow: 2px 2px 1px grey;
+    margin: 10px;
+}
+#b5{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 15px;
+    background-color: rgb(120, 114, 206);
+    color: white;
+    box-shadow: 2px 2px 1px grey;
+    margin: 10px;
+}
+#i1{
+   
+border:none;
+border-radius: 5px;
+padding: 5px 10px;
+font-size: 15px;
+background-color: silver;
+color:white;
+box-shadow: 2px 2px 1px grey;
+margin : 10px;
+}
+
+#i2{
+    
+    border:none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 15px;
+    background-color: silver;
+    color:white;
+    box-shadow: 2px 2px 1px grey;
+    margin : 10px;
+    }
+    #theDiv {
+        width: 300px;
+        border: solid red 2px;
+      }
+      h1{
+          margin-left:20px;
+      }
